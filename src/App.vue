@@ -34,6 +34,8 @@ export default {
 </script>
 
 <style lang="less">
+@import "./assets/css/lib/_lib-rem.less";
+
 // 全局css样式 reset 如：reset -> marin，padding,字体字号等
 @import "./assets/css/reset.less";
 // 全局公共样式统一修订，如button，table，input，外部框架等
